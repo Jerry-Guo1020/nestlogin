@@ -1,0 +1,57 @@
+Date : 2026-05-18 21:32:29
+Directory : d:\一些完整的项目\nest-login\api
+Total : 19 files,  5963 codes, 8 comments, 1622 blanks, all 7593 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| YAML               |          1 |      5,623 |          0 |      1,556 |      7,179 |
+| JSON               |          5 |        105 |          0 |          5 |        110 |
+| TypeScript         |          8 |         86 |          2 |         23 |        111 |
+| Markdown           |          1 |         68 |          2 |         29 |         99 |
+| JavaScript         |          1 |         33 |          1 |          2 |         36 |
+| JSON with Comments |          1 |         25 |          0 |          1 |         26 |
+| Prisma             |          1 |         23 |          3 |          5 |         31 |
+| MS SQL             |          1 |          0 |          0 |          1 |          1 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                 | files      | code       | comment    | blank      | total      |
++------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                    |         19 |      5,963 |          8 |      1,622 |      7,593 |
+| . (Files)                                            |          9 |      5,856 |          5 |      1,594 |      7,455 |
+| database                                             |          1 |          0 |          0 |          1 |          1 |
+| prisma                                               |          1 |         23 |          3 |          5 |         31 |
+| src                                                  |          6 |         51 |          0 |         15 |         66 |
+| src (Files)                                          |          5 |         51 |          0 |         14 |         65 |
+| src\auth                                             |          1 |          0 |          0 |          1 |          1 |
+| test                                                 |          2 |         33 |          0 |          7 |         40 |
++------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                             | language           | code       | comment    | blank      | total      |
++------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\一些完整的项目\nest-login\api\.prettierrc                | JSON               |          4 |          0 |          1 |          5 |
+| d:\一些完整的项目\nest-login\api\README.md                  | Markdown           |         68 |          2 |         29 |         99 |
+| d:\一些完整的项目\nest-login\api\database\index.sql         | MS SQL             |          0 |          0 |          1 |          1 |
+| d:\一些完整的项目\nest-login\api\eslint.config.mjs          | JavaScript         |         33 |          1 |          2 |         36 |
+| d:\一些完整的项目\nest-login\api\nest-cli.json              | JSON               |          8 |          0 |          1 |          9 |
+| d:\一些完整的项目\nest-login\api\package.json               | JSON               |         80 |          0 |          1 |         81 |
+| d:\一些完整的项目\nest-login\api\pnpm-lock.yaml             | YAML               |      5,623 |          0 |      1,556 |      7,179 |
+| d:\一些完整的项目\nest-login\api\prisma.config.ts           | TypeScript         |         11 |          2 |          2 |         15 |
+| d:\一些完整的项目\nest-login\api\prisma\schema.prisma       | Prisma             |         23 |          3 |          5 |         31 |
+| d:\一些完整的项目\nest-login\api\src\app.controller.spec.ts | TypeScript         |         18 |          0 |          5 |         23 |
+| d:\一些完整的项目\nest-login\api\src\app.controller.ts      | TypeScript         |         10 |          0 |          3 |         13 |
+| d:\一些完整的项目\nest-login\api\src\app.module.ts          | TypeScript         |          9 |          0 |          2 |         11 |
+| d:\一些完整的项目\nest-login\api\src\app.service.ts         | TypeScript         |          7 |          0 |          2 |          9 |
+| d:\一些完整的项目\nest-login\api\src\auth\aaa.ts            | TypeScript         |          0 |          0 |          1 |          1 |
+| d:\一些完整的项目\nest-login\api\src\main.ts                | TypeScript         |          7 |          0 |          2 |          9 |
+| d:\一些完整的项目\nest-login\api\test\app.e2e-spec.ts       | TypeScript         |         24 |          0 |          6 |         30 |
+| d:\一些完整的项目\nest-login\api\test\jest-e2e.json         | JSON               |          9 |          0 |          1 |         10 |
+| d:\一些完整的项目\nest-login\api\tsconfig.build.json        | JSON               |          4 |          0 |          1 |          5 |
+| d:\一些完整的项目\nest-login\api\tsconfig.json              | JSON with Comments |         25 |          0 |          1 |         26 |
+| Total                                                |                    |      5,963 |          8 |      1,622 |      7,593 |
++------------------------------------------------------+--------------------+------------+------------+------------+------------+

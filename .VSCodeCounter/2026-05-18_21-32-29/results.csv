@@ -1,0 +1,21 @@
+"filename", "language", "JSON with Comments", "TypeScript", "YAML", "JSON", "JavaScript", "MS SQL", "Prisma", "Markdown", "comment", "blank", "total"
+"d:\一些完整的项目\nest-login\api\.prettierrc", "JSON", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"d:\一些完整的项目\nest-login\api\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 68, 2, 29, 99
+"d:\一些完整的项目\nest-login\api\database\index.sql", "MS SQL", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\一些完整的项目\nest-login\api\eslint.config.mjs", "JavaScript", 0, 0, 0, 0, 33, 0, 0, 0, 1, 2, 36
+"d:\一些完整的项目\nest-login\api\nest-cli.json", "JSON", 0, 0, 0, 8, 0, 0, 0, 0, 0, 1, 9
+"d:\一些完整的项目\nest-login\api\package.json", "JSON", 0, 0, 0, 80, 0, 0, 0, 0, 0, 1, 81
+"d:\一些完整的项目\nest-login\api\pnpm-lock.yaml", "YAML", 0, 0, 5623, 0, 0, 0, 0, 0, 0, 1556, 7179
+"d:\一些完整的项目\nest-login\api\prisma.config.ts", "TypeScript", 0, 11, 0, 0, 0, 0, 0, 0, 2, 2, 15
+"d:\一些完整的项目\nest-login\api\prisma\schema.prisma", "Prisma", 0, 0, 0, 0, 0, 0, 23, 0, 3, 5, 31
+"d:\一些完整的项目\nest-login\api\src\app.controller.spec.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 0, 0, 0, 5, 23
+"d:\一些完整的项目\nest-login\api\src\app.controller.ts", "TypeScript", 0, 10, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"d:\一些完整的项目\nest-login\api\src\app.module.ts", "TypeScript", 0, 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"d:\一些完整的项目\nest-login\api\src\app.service.ts", "TypeScript", 0, 7, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"d:\一些完整的项目\nest-login\api\src\auth\aaa.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\一些完整的项目\nest-login\api\src\main.ts", "TypeScript", 0, 7, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"d:\一些完整的项目\nest-login\api\test\app.e2e-spec.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 6, 30
+"d:\一些完整的项目\nest-login\api\test\jest-e2e.json", "JSON", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"d:\一些完整的项目\nest-login\api\tsconfig.build.json", "JSON", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"d:\一些完整的项目\nest-login\api\tsconfig.json", "JSON with Comments", 25, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"Total", "-", 25, 86, 5623, 105, 33, 0, 23, 68, 8, 1622, 7593
