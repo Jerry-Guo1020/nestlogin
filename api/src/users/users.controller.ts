@@ -1,7 +1,12 @@
 import { Body, Controller, Get, Patch, Req, UseGuards } from '@nestjs/common';
 import { JwtAuthGuard } from 'src/auth/jwt-auth.guard';
 import { UsersService } from './users.service';
-import { ApiBearerAuth, ApiOperation, ApiResponse, ApiTags } from '@nestjs/swagger';
+import {
+  ApiBearerAuth,
+  ApiOperation,
+  ApiResponse,
+  ApiTags,
+} from '@nestjs/swagger';
 import { UpdateUserDto } from './dto/update-user.dto';
 import { CurrentUserResponseDto } from 'src/auth/dto/current-user-response.dto';
 
